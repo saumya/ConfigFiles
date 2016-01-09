@@ -1,9 +1,10 @@
 Configuration files of a development machine
 ============================================         
 For MAC users :          
- Generally as a MAC user, its easier to configure teh whole system with the help of some entries in particular files. Thisrepo consists of the configuration files of my own machine.          
+  Generally as a MAC user, its easier to configure teh whole system with the help of some entries in particular files. Thisrepo consists of the configuration files of my own machine.          
+
 For Windows users :
- TODO
+  TODO
 
 Details : 
  - .bash_profile : used for setting PATH for the whole system
