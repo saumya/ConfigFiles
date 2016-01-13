@@ -4,6 +4,7 @@
 		"Vintage"
 	],
 	//
+	"color_scheme": "Packages/Monokai JSON+/Monokai JSON+.tmTheme",
 	"tab_size": 2,
 	"font_size": 16,
 	"margin": 6,
