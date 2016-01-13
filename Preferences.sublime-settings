@@ -3,7 +3,13 @@
 	[
 		"Vintage"
 	],
+	//
 	"tab_size": 2,
 	"font_size": 16,
 	"margin": 6,
+	// auto,true,false
+	"word_wrap": "false",
+	// 0 is window width, other than that would be fixed width
+	"wrap_width": 0,
+	"draw_centered": false,
 }
