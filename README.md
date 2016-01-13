@@ -7,10 +7,10 @@ For Windows users :
   TODO
 
 Details : 
- - .bash_profile : used for setting PATH for the whole system
+ - .bash_profile : used for setting ###PATH### for the whole system
   - The entries of this file is generally used for system wide settings
   - present in ~/ , in a MAC this is the location of user root; ie; the logged in user's root  directory
- - Preferences.sublime-settings : used to configure SublimeText
+ - Preferences.sublime-settings : used to configure ###SublimeText###
   - Configures SublimeText
   - Location of this file is at 
    ~/Library/Application Support/Sublime Text 3/Packages/User
