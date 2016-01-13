@@ -18,6 +18,7 @@ For Windows users :
 #### Sublime Text 3
  
  - Preferences.sublime-settings : used to configure SublimeText
+
   - Configures SublimeText
   - Location of this file is at 
    ~/Library/Application Support/Sublime Text 3/Packages/User
