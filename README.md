@@ -5,7 +5,7 @@ For MAC users :
 
 
 
-###Details of the different settings : 
+### Details of the different settings : 
 
 #### Linux(Ubuntu) environment :
   - `.bashrc` is for Ubuntu
