@@ -3,14 +3,19 @@ Configuration files of a development machine
 For MAC users :          
   Generally as a MAC user, its easier to configure teh whole system with the help of some entries in particular files. Thisrepo consists of the configuration files of my own machine.          
 
-For Windows users :
-  TODO
+
 
 ###Details of the different settings : 
 
+#### Linux(Ubuntu) environment :
+  - `.bashrc` is for Ubuntu
+
+#### Windows environment :
+  TODO
+
 #### MAC environment
  
- - .bash_profile : used for setting PATH for the whole system
+ - `.bash_profile` : used for setting PATH for the whole system
 
   - The entries of this file is generally used for system wide settings
   - present in ~/ , in a MAC this is the location of user root; ie; the logged in user's root  directory          
